@@ -9,3 +9,17 @@ h1 {
 textarea {
     width: 100%;
   }
+
+.clearBtn {
+    text-align:center;
+}
+
+.present {
+    background-color:blue;
+    color:red;
+  }
+
+.future {
+    background-color:green;
+    color:red;
+}
